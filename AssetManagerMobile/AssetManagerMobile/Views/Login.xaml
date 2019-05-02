@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AssetManagerMobile.Login"
+             BackgroundColor="#131334" >
+             
+    <ContentPage.Content>
+        
+        <Grid Grid.Row="1" Margin="20, 40, 20, 0">
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" Padding="20">
+                <Label x:Name="lbl_NoInternet" Text=" "/>
+                <ActivityIndicator x:Name="ActivitySpinner" Color="Blue" IsRunning="True"/>
+                <Image Source="Logo.png" />
+                <Entry x:Name="txtUserName"  Grid.Row="2" Placeholder="User Name" FontSize="16" TextColor="White" PlaceholderColor="White"/>
+                <Entry x:Name="txtPassword" Grid.Row="3" Placeholder="Password" FontSize="16" IsPassword="True" TextColor="White" PlaceholderColor="White"/>
+                <Button x:Name="btnLogin"  Text="Log in" BackgroundColor="#4545E1" Grid.Row="4" Margin="0, 20, 0, 0"/>
+            </StackLayout>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

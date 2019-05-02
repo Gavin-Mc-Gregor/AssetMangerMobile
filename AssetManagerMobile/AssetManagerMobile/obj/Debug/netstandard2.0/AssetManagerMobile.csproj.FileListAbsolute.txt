@@ -1,0 +1,14 @@
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\bin\Debug\netstandard2.0\AssetManagerMobile.deps.json
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\bin\Debug\netstandard2.0\AssetManagerMobile.dll
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\bin\Debug\netstandard2.0\AssetManagerMobile.pdb
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.csprojAssemblyReference.cache
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.AssemblyInfoInputs.cache
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.AssemblyInfo.cs
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.dll
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\AssetManagerMobile.pdb
+C:\Users\Gavin\source\repos\AssetManagerMobile\AssetManagerMobile\AssetManagerMobile\obj\Debug\netstandard2.0\Views\Menu\Dashboard.xaml.g.cs

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AssetManagerMobile.Views.Menu.Dashboard">
+    <StackLayout VerticalOptions="FillAndExpand" >
+        <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+            <Label x:Name="lbl_NpInternet" HorizontalTextAlignment="Center" TextColor="White" BackgroundColor="Red"/>
+        </StackLayout>
+        
+        <Label Text="Welcom" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <ListView ItemsSource="{Binding}"
+                 >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding I_QrCode}" Detail="{Binding I_Type }">
+                        <TextCell.ContextActions>
+                            <MenuItem 
+                        CommandParameter="{Binding}"
+                        />
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        <Button Text="Scan Item" Clicked="Scan_Clicked"  HorizontalOptions="Center"/>
+    </StackLayout>
+        
+</ContentPage>
